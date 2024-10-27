@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at **https://github.com/priyochyit**(https://github.com/priyochyit)
+- 👨‍💻 All of my projects are available at [https://github.com/priyochyit](https://github.com/priyochyit)
 
 - 📝 I regularly write articles on **Web Development.**
 
