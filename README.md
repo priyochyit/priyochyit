@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyabrata Chowdhury</h1>
-<div align="center"> <img src="https://github.com/priyochyit/priyochyit/blob/main/PRIYO%20IT%20Cover%20Page.png"> </div>
+<div align="center"> <img src="https://github.com/priyochyit/priyochyit/blob/main/Priyo Engineer (Cover).png"> </div>
 <h3 align="center">B.Sc. (Engg.) in Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyochyit&label=Profile%20views&color=0e75b6&style=flat" alt="priyochyit" /> </p>
